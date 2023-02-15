@@ -1,1 +1,1 @@
-Clean up unused imgsz (#7771)
+Capitalize OBB acronym (#7383)
