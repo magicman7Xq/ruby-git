@@ -1,1 +1,1 @@
-Add OBB models to GITHUB_ASSET_NAMES (#7425)
+Add settings runs_dir == datasets_dir warning (#8653)
