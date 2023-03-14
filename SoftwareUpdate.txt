@@ -1,1 +1,1 @@
-Pass callbacks to validator (#7320)
+Tab Manager - An easy way to batch-export, batch-close, and batch-add tabs
