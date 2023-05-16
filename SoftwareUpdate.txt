@@ -1,1 +1,1 @@
-Add OBB benchmarks to CI (#7777)
+Docs partial mdformat improvements (#7378)
