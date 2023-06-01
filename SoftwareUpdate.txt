@@ -1,1 +1,1 @@
-Move Explorer tests to scheduled CI (#8305)
+Avoid creating -hub dir without processing images (#8334)
