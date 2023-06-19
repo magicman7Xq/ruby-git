@@ -1,1 +1,1 @@
-Cleanup Docs languages (#7865)
+Update docs building code (#7601)
