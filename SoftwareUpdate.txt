@@ -1,1 +1,1 @@
-Add C++ Classify inference example (#6868)
+ultralytics 8.1.26 LoadImagesAndVideos batched inference (#8817)
